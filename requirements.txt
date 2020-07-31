@@ -1,0 +1,7 @@
+numpy
+matplotlib
+cv2
+ipywidgets
+IPython
+math
+csv
